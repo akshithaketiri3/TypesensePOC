@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+typesense:
+  protocol: http
+  host: localhost
+  port: 8108
+  apikey: xyz
+
+
